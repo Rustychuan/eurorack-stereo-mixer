@@ -1,0 +1,22 @@
+# 24hp × 1U Intellijel Format Stereo Mixer Panel Template
+
+## General Specifications
+- **Width**: 24hp
+- **Height**: 1U
+- **Format**: Intellijel
+
+## Jack Placement Coordinates (in mm)
+1. **Input Jack Left**: (10, 30)
+2. **Input Jack Right**: (14, 30)
+3. **Output Jack Left**: (10, 70)
+4. **Output Jack Right**: (14, 70)
+
+## Potentiometer Placement Coordinates (in mm)
+1. **Volume Pot Left**: (10, 50)
+2. **Volume Pot Right**: (14, 50)
+3. **Pan Pot Left**: (10, 40)
+4. **Pan Pot Right**: (14, 40)
+
+## Additional Components
+- **LED Indicators**: Place at (12, 10) and (12, 90)
+- **Switches**: If used, position them at (10, 20) and (14, 20) for channel controls.
