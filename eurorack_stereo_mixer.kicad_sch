@@ -1,0 +1,10 @@
+$SchLib
+Eurorack Stereo Mixer Schematic
+TL074 1
+R1 10kΩ
+R2 100kΩ
+C1 1uF
+C2 10uF
+P1 10kΩ Pot
+J1 Audio Jack
+$EndSchLib
